@@ -1,1 +1,2 @@
 un texte est ajouté au fichier second
+voici la ligne 2 sur second

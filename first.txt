@@ -1,1 +1,2 @@
 un texte est ajouté au fichier first
+voici la ligne sur first
